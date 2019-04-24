@@ -8,3 +8,5 @@
 实现的功能：
   前置和后置摄像头拍摄图片的字符转换
   
+如图：
+![image](https://github.com/Marshall-Hu/HSF_CharDance/blob/master/IMG_0005.jpg)
